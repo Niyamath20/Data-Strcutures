@@ -1,2 +1,2 @@
-# Data-Strcutures
+# Data-Structures
 Data Structures Practice Problems
